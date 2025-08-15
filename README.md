@@ -41,7 +41,7 @@ This project helped me improve my skills in data storytelling, API integration, 
 💬 I’d love to hear your feedback or suggestions!<br>
 Let’s connect and grow together in the world of #Data.<br>
 <br>
-#PowerBI #DataAnalytics #DataVisualization #WeatherForecast #BusinessIntelligence #Analytics #DataDriven #DataScience #DataAnalyst #DashboardDesign #PowerQuery #MicrosoftPowerBI #DataProject #PortfolioProject
+#PowerBI #DataAnalytics #DataVisualization  #BusinessIntelligence #Analytics #DataDriven #DataScience #DataAnalyst #DashboardDesign #PowerQuery #MicrosoftPowerBI #DataProject #PortfolioProject
 <br>
 Take a look at the interactive dashboard and feel free to share your thoughts and feedback in the comments!<br>
 Screenshot:<br>
